@@ -7,8 +7,7 @@ require('fastR2')
 #part a
 gf_histogram(~pulse,data=LittleSurvey)
 
-# Answer:
-# way too much outlier
+
 
 # part b
 df = filter(LittleSurvey, pulse > 30)
