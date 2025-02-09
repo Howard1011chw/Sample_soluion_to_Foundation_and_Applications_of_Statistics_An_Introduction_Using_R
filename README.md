@@ -1,0 +1,1 @@
+# Sample_soluion_to_Foundation_and_Applications_of_Statistics_An_Introduction_Using_R
